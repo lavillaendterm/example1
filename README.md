@@ -1,1 +1,2 @@
-# example1
+# sample-news-app
+sample news app
